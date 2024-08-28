@@ -12,10 +12,10 @@ This paper uses balanced subsets of the following relation extraction datasets w
 
 - **TACRED**
 - **TACRED-RE**
-- **NYT**
-- **Biographical**
+- **NYT** (10,140 instances)
+- **Biographical** (20,000 instances)
 
-The folder [dataset_splits](https://github.com/kleines-gespenst/re_cross_dataset/tree/main/dataset_splits) the dataset splits with containing instance IDs used in the experiments
+The folder [dataset_splits](https://github.com/kleines-gespenst/re_cross_dataset/tree/main/dataset_splits) the dataset splits (70-20-10) with containing instance IDs used in the experiments
 
 
 # TBD
