@@ -10,7 +10,7 @@ This repository focuses on the robustness of relation extraction (RE) systems, s
 
 This paper uses balanced subsets of the following relation extraction datasets with biographically relevant relations:
 
-- **TACRED**
+- **TACRED** (27,068 instances)
 - **TACRED-RE**
 - **NYT** (10,140 instances)
 - **Biographical** (20,000 instances)
