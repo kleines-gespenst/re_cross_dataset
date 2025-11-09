@@ -1,6 +1,6 @@
 # re_cross_dataset
 
-Welcome to the repository for the paper "Robustness of Relation Extraction Systems: Case Study on Biographical Relation Extraction". This repository contains the documentation and resources necessary to replicate the experiments conducted in the paper.
+Welcome to the repository for the paper "Relation Extraction or Pattern Matching? Unravelling the Generalisation Limits of Language Models for Biographical RE". This repository contains the documentation and resources necessary to replicate the experiments conducted in the paper.
 
 ## Overview
 
